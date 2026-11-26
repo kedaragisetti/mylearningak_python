@@ -38,8 +38,8 @@ Enter your move: 1
 ### Run Locally
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/python-tic-tac-toe.git
-cd python-tic-tac-toe
+git clone [https://github.com/kedaragisetti/mylearningak_python.git](https://github.com/kedaragisetti/mylearningak_python.git)
+cd mylearningak_python/project_tic-tac-toe
 python tic_tac_toe.py
 ```
 
